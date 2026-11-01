@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from src.errors import InvalidBookError
+from book_catalog.errors import InvalidBookError
 
 
 @dataclass
